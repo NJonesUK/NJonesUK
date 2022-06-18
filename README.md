@@ -16,7 +16,7 @@ Some recent blog posts include:
 
 ## Presentations and Workshops
 
-You can find a selection of my better talks below:
+You can find a small selection of my better talks below, with [the full list available on my website](https://www.nojones.net/talks-and-workshops):
 
 | Talk Title                                                                                                                         | Event                                                                                                                                                     | Video Link                                                | Slide Link                                                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
