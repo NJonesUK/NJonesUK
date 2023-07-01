@@ -10,6 +10,7 @@ I'm a cloud security consultant and enthusast, specialising in breaking into and
 
 Some recent blog posts include:
 
+- [On AWS Pentesting](https://www.nojones.net/posts/on-aws-pentesting)
 - [Breaking into Cloud Security](https://www.nojones.net/posts/breaking-into-cloudsec)
 - [A Review of the AWS Security Model](https://www.nojones.net/posts/a-review-of-the-aws-security-maturity-model)
 - [AWS Access Keys - A Reference](https://www.nojones.net/posts/aws-access-keys-a-reference)
